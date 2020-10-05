@@ -1,0 +1,13 @@
+.header{
+    background-color:black;
+    color:rgb(180, 61, 61);
+    display:flex;
+    text-align:space-between;
+}
+body{
+    background-color:rgb(149, 149, 221)
+}
+p,h2{
+    color:black;
+    text-align:center;
+}
