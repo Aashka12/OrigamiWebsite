@@ -1,13 +1,35 @@
-.header{
-    background-color:black;
-    color:rgb(180, 61, 61);
-    display:flex;
-    text-align:space-between;
+h1{
+    color: white;
+}
+
+
+
+.header * {
+    background-color:rgb(207, 123, 55);
+    color:black;
+    display:flex; 
+    text-align:right;
 }
 body{
-    background-color:rgb(149, 149, 221)
+background-color: tan;
+    
+
 }
 p,h2{
     color:black;
     text-align:center;
+}
+.animals {
+    display:flex;
+    justify-content: center;
+}
+a:link {
+    color:white;
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(180, 61, 61);
+}
+.Origami:hover {
+transform: scale(1.2);
 }
